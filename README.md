@@ -1,6 +1,6 @@
-# gramiksha-udaan
+# Farmista
 
-> An Udaan Admin Panel for Gramiksha fellows
+> An Online MarketPlace and Learning portal for Farmers.(Hackathon)
 
 ## Build Setup
 
