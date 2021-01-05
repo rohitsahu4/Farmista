@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@sentry/browser": "^4.2.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bugsnag-js": "^4.7.3",
     "bugsnag-vue": "^1.0.1",
     "firebase": "^5.7.3",
